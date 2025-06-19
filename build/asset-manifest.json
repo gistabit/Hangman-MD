@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "./static/css/main.a9c2eedd.css",
+    "main.js": "./static/js/main.573043c6.js",
+    "static/js/453.b3151d72.chunk.js": "./static/js/453.b3151d72.chunk.js",
+    "static/media/game-won.mp3": "./static/media/game-won.dc5750a21cb5c22a7fee.mp3",
+    "static/media/background-blue.png": "./static/media/background-blue.b700b065b71cb236f9d7.png",
+    "static/media/game-lost.mp3": "./static/media/game-lost.5f1005ae44c0c761fed5.mp3",
+    "static/media/background-pink.png": "./static/media/background-pink.e73c5257748112b73807.png",
+    "static/media/schoolLetter.woff2": "./static/media/schoolLetter.46e0e352f7f747f60cd5.woff2",
+    "static/media/gamelogo.png": "./static/media/gamelogo.354b15ed6e66451734a7.png",
+    "static/media/click.mp3": "./static/media/click.2a61b855726c3e5d24b6.mp3",
+    "static/media/new-wrong.mp3": "./static/media/new-wrong.c627d535d084a2618ff0.mp3",
+    "static/media/new-correct.mp3": "./static/media/new-correct.7a401b3cca5d976ee3c6.mp3",
+    "index.html": "./index.html",
+    "main.a9c2eedd.css.map": "./static/css/main.a9c2eedd.css.map",
+    "main.573043c6.js.map": "./static/js/main.573043c6.js.map",
+    "453.b3151d72.chunk.js.map": "./static/js/453.b3151d72.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9c2eedd.css",
+    "static/js/main.573043c6.js"
+  ]
+}
